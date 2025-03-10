@@ -1,0 +1,20 @@
+body {
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+}
